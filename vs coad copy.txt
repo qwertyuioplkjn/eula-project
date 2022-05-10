@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eula</title>
+
+    <style type="text/css">
+    h1 {
+        color: red;
+        text-align: center;
+        font-size: 50px;
+    }
+
+    .green-text{
+        color: blue;
+    }
+
+    #ids{
+        background: cornflowerblue;
+    }
+
+    .ii-text{
+        color: bisque;
+    }
+
+    body{
+        
+        background-image: url('img/pr.jpg');
+        background-repeat: no-repeat;
+        background-position:top left;
+        background-attachment: fixed;
+    }
+    </style>
+</head>
+<body>
+
+    <h1 class="green-text">The Two Lives</h1>
+    <h1 class="ii-text" id="ids">ok try to css</h1>
+    <h1>er is the what</h1>
+    <h1>hjkd skd fksnd g dn</h1>
+    <h1>ggfytntgfnbbvjbvghh</h1>
+    <h1>eewyffg uhjj </h1>
+    <h1>jbj jjj jb jbu j j </h1>
+    <h1>er ighfghvghvhvhvhb</h2>
+    <h1>er is the what</h1>
+    <h1>er is the what</h1>
+    <hr>
+
+</body>
+</html>
